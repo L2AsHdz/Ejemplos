@@ -1,0 +1,4 @@
+com/l2ashdz/calcmvc/main.class
+com/l2ashdz/calcmvc/model/Operacion.class
+com/l2ashdz/calcmvc/controller/CalcController.class
+com/l2ashdz/calcmvc/vista/Interfaz.class
